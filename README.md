@@ -1,7 +1,6 @@
 # General information
 
 This repository is working on the case of an hypothetical person Nicole Johnson is looking for a house and what recommendations I could give based on data.
-The case is described in ["Case"](./assignment.md).
 
 * [This is the final presentation PDF](./files/kingcounty-cmk.pdf) for technical reference
 * [This is the final presentation Keynote](./files/kingcounty-cmk.key) for technical reference
